@@ -18815,15 +18815,15 @@
   "buffers": [
     {
       "byteLength": 2447840,
-      "uri": "scene.bin"
+      "uri": "./scene.bin"
     }
   ],
   "images": [
     {
-      "uri": "textures/Cello_paint_baseColor.png"
+      "uri": "./textures/Cello_paint_baseColor.png"
     },
     {
-      "uri": "textures/bear_paint_baseColor.png"
+      "uri": "./textures/bear_paint_baseColor.png"
     }
   ],
   "materials": [
